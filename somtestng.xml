@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <parameter name="car1" value="Swift"></parameter>
+  <parameter name="car2" value="Hyundai"></parameter>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.demoproj.OmayoRight"/>
+      <class name="org.demoproj.OmayoCentre"/>
+      <class name="org.demoproj.OmayoLeft"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

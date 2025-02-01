@@ -1,0 +1,219 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>28/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Jan 26 18:01:40 IST 2025</td>
+</tr>
+<tr><td>Total time:</td><td>149 seconds (149040 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test1()'><b>Test1</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test1()'><b>Test1</b><br>Test class: org.demoproj.OmayoCentre</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoLeft.Test1()'><b>Test1</b><br>Test class: org.demoproj.OmayoLeft<br>Parameters: Swift, Hyundai</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoLeft@72d818d1</td></tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test12()'><b>Test12</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>39</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test2()'><b>Test2</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>4</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test2()'><b>Test2</b><br>Test class: org.demoproj.OmayoCentre</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoLeft.Test2()'><b>Test2</b><br>Test class: org.demoproj.OmayoLeft</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoLeft@72d818d1</td></tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test3()'><b>Test3</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test3()'><b>Test3</b><br>Test class: org.demoproj.OmayoCentre</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoLeft.Test3()'><b>Test3</b><br>Test class: org.demoproj.OmayoLeft</td>
+<td></td>
+<td>26</td>
+<td>org.demoproj.OmayoLeft@72d818d1</td></tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test4()'><b>Test4</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test4()'><b>Test4</b><br>Test class: org.demoproj.OmayoCentre<br>Parameters: sasi, java</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test4()'><b>Test4</b><br>Test class: org.demoproj.OmayoCentre<br>Parameters: kumar, python</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test4()'><b>Test4</b><br>Test class: org.demoproj.OmayoCentre<br>Parameters: wiki, selenium</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test4()'><b>Test4</b><br>Test class: org.demoproj.OmayoCentre<br>Parameters: junit, testng</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoLeft.Test4()'><b>Test4</b><br>Test class: org.demoproj.OmayoLeft</td>
+<td></td>
+<td>12</td>
+<td>org.demoproj.OmayoLeft@72d818d1</td></tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test5()'><b>Test5</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test5()'><b>Test5</b><br>Test class: org.demoproj.OmayoCentre<br>Parameters: sasi@gmail.com, 736844</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test5()'><b>Test5</b><br>Test class: org.demoproj.OmayoCentre<br>Parameters: kumar@tcs.com, 84785</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test5()'><b>Test5</b><br>Test class: org.demoproj.OmayoCentre<br>Parameters: wiki@admin.com, 74674</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test5()'><b>Test5</b><br>Test class: org.demoproj.OmayoCentre<br>Parameters: junit, 7365784</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoLeft.Test5()'><b>Test5</b><br>Test class: org.demoproj.OmayoLeft</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoLeft@72d818d1</td></tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test6()'><b>Test6</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>13</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test6()'><b>Test6</b><br>Test class: org.demoproj.OmayoCentre</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test7()'><b>Test7</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+<tr>
+<td title='org.demoproj.OmayoCentre.Test7()'><b>Test7</b><br>Test class: org.demoproj.OmayoCentre</td>
+<td></td>
+<td>7</td>
+<td>org.demoproj.OmayoCentre@27c20538</td></tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test8()'><b>Test8</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+<tr>
+<td title='org.demoproj.OmayoRight.Test9()'><b>Test9</b><br>Test class: org.demoproj.OmayoRight</td>
+<td></td>
+<td>0</td>
+<td>org.demoproj.OmayoRight@56ac3a89</td></tr>
+</table><p>
+</body>
+</html>
