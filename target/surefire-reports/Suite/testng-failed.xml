@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <parameter name="car2" value="Hyundai"/>
+  <parameter name="car1" value="Swift"/>
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="org.demoproj.OmayoCentre">
+        <methods>
+          <include name="afterClass"/>
+          <include name="Test4" invocation-numbers="0 1 2 3"/>
+          <include name="Test5" invocation-numbers="0 1 2 3"/>
+          <include name="Test6"/>
+          <include name="afterMethod"/>
+          <include name="Test7"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- org.demoproj.OmayoCentre -->
+      <class name="org.demoproj.OmayoRight">
+        <methods>
+          <include name="beforClass"/>
+          <include name="Test2"/>
+          <include name="Test8"/>
+          <include name="Test7"/>
+          <include name="afterMethod"/>
+          <include name="Test9"/>
+          <include name="Test12"/>
+          <include name="Test4"/>
+          <include name="Test3"/>
+          <include name="Test6"/>
+          <include name="Test5"/>
+          <include name="afterClass"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- org.demoproj.OmayoRight -->
+      <class name="org.demoproj.OmayoLeft">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="Test3"/>
+          <include name="afterClass"/>
+          <include name="Test4"/>
+          <include name="Test2"/>
+          <include name="beforeMethod"/>
+          <include name="Test5"/>
+          <include name="beforeClass"/>
+          <include name="Test1"/>
+        </methods>
+      </class> <!-- org.demoproj.OmayoLeft -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

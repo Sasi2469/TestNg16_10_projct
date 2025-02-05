@@ -1,0 +1,2429 @@
+# Created at 2025-02-05T12:24:17.532
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2025-02-05T12:24:19.923
+Unexpected IOException with stream: Class org.demoproj.OmayoRight@1efbd816 execution started
+
+
+# Created at 2025-02-05T12:24:19.959
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-19
+
+
+# Created at 2025-02-05T12:24:19.962
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test1(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:27.484
+Unexpected IOException with stream: https://assets.about.me/background/www.softwaretestingcollege.blogspot.com_1330713399_12.jpgimg is broken link
+
+
+# Created at 2025-02-05T12:24:27.484
+Unexpected IOException with stream: image status code is 403
+
+
+# Created at 2025-02-05T12:24:27.485
+Unexpected IOException: 6,1,org.demoproj.OmayoRight,Test1(org.demoproj.OmayoRight),null,null,null
+
+
+# Created at 2025-02-05T12:24:27.488
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-27
+
+
+# Created at 2025-02-05T12:24:27.490
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-27
+
+
+# Created at 2025-02-05T12:24:27.490
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test12(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:32.426
+Unexpected IOException with stream: https://www.facebook.com/
+
+
+# Created at 2025-02-05T12:24:47.467
+Unexpected IOException with stream: https://www.flipkart.com/
+
+
+# Created at 2025-02-05T12:24:49.539
+Unexpected IOException: 8,1,org.demoproj.OmayoRight,Test12(org.demoproj.OmayoRight),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b,OmayoRight.Test12:125->BaseClass.javascriptBackPage:363 \00BB NoSuchWindow no such...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A\0009at org.demoproj.OmayoRight.Test12(OmayoRight.java:125)\000A
+
+
+# Created at 2025-02-05T12:24:49.540
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.541
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.542
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test2(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:49.552
+Unexpected IOException: 8,1,org.demoproj.OmayoRight,Test2(org.demoproj.OmayoRight),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@class='gsc-input']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@class='gsc-input']},OmayoRight.Test2:51->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: tar...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@class='gsc-input']}\000A\0009at org.demoproj.OmayoRight.Test2(OmayoRight.java:51)\000A
+
+
+# Created at 2025-02-05T12:24:49.557
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.559
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.559
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test3(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:49.576
+Unexpected IOException: 8,1,org.demoproj.OmayoRight,Test3(org.demoproj.OmayoRight),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='radio1']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='radio1']},OmayoRight.Test3:58->BaseClass.click:107 \00BB NoSuchWindow no such window: target...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='radio1']}\000A\0009at org.demoproj.OmayoRight.Test3(OmayoRight.java:58)\000A
+
+
+# Created at 2025-02-05T12:24:49.578
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.580
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.581
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test4(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:49.594
+Unexpected IOException: 8,1,org.demoproj.OmayoRight,Test4(org.demoproj.OmayoRight),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='alert1']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='alert1']},OmayoRight.Test4:64->BaseClass.click:107 \00BB NoSuchWindow no such window: target...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='alert1']}\000A\0009at org.demoproj.OmayoRight.Test4(OmayoRight.java:64)\000A
+
+
+# Created at 2025-02-05T12:24:49.595
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.596
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.598
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test5(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:49.609
+Unexpected IOException: 8,1,org.demoproj.OmayoRight,Test5(org.demoproj.OmayoRight),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='checkbox1']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='checkbox1']},OmayoRight.Test5:71->BaseClass.click:107 \00BB NoSuchWindow no such window: target...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='checkbox1']}\000A\0009at org.demoproj.OmayoRight.Test5(OmayoRight.java:71)\000A
+
+
+# Created at 2025-02-05T12:24:49.610
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.612
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.613
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test6(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:49.622
+Unexpected IOException: 8,1,org.demoproj.OmayoRight,Test6(org.demoproj.OmayoRight),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='prompt']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='prompt']},OmayoRight.Test6:78->BaseClass.click:107 \00BB NoSuchWindow no such window: target...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='prompt']}\000A\0009at org.demoproj.OmayoRight.Test6(OmayoRight.java:78)\000A
+
+
+# Created at 2025-02-05T12:24:49.623
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.624
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.625
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test7(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:49.639
+Unexpected IOException: 8,1,org.demoproj.OmayoRight,Test7(org.demoproj.OmayoRight),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='confirm']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='confirm']},OmayoRight.Test7:86->BaseClass.click:107 \00BB NoSuchWindow no such window: target...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@id='confirm']}\000A\0009at org.demoproj.OmayoRight.Test7(OmayoRight.java:86)\000A
+
+
+# Created at 2025-02-05T12:24:49.640
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.641
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.642
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test8(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:49.655
+Unexpected IOException: 8,1,org.demoproj.OmayoRight,Test8(org.demoproj.OmayoRight),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@value='Bike']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@value='Bike']},OmayoRight.Test8:93->BaseClass.click:107 \00BB NoSuchWindow no such window: target...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@value='Bike']}\000A\0009at org.demoproj.OmayoRight.Test8(OmayoRight.java:93)\000A
+
+
+# Created at 2025-02-05T12:24:49.656
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.658
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.660
+Unexpected IOException: 5,1,org.demoproj.OmayoRight,Test9(org.demoproj.OmayoRight),rightomayo,null,null
+
+
+# Created at 2025-02-05T12:24:49.672
+Unexpected IOException: 8,1,org.demoproj.OmayoRight,Test9(org.demoproj.OmayoRight),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@value='Book']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@value='Book']},OmayoRight.Test9:100->BaseClass.click:107 \00BB NoSuchWindow no such window: targe...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:63101}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 182ca9821c56a9b78e7cf674a8cfb71b\000A*** Element info: {Using=xpath\002C value=//input[@value='Book']}\000A\0009at org.demoproj.OmayoRight.Test9(OmayoRight.java:100)\000A
+
+
+# Created at 2025-02-05T12:24:49.674
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-49
+
+
+# Created at 2025-02-05T12:24:49.676
+Unexpected IOException with stream: Class org.demoproj.OmayoRight@1efbd816 execution ended
+
+
+# Created at 2025-02-05T12:24:50.649
+Unexpected IOException with stream: S
+
+# Created at 2025-02-05T12:24:50.649
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.649
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.649
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.649
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.657
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.657
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.658
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:50.659
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.659
+Unexpected IOException with stream: C
+
+# Created at 2025-02-05T12:24:50.659
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:50.659
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: D
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:50.661
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 5
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: (
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:50.668
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.676
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.676
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.676
+Unexpected IOException with stream: 5
+
+# Created at 2025-02-05T12:24:50.678
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:50.678
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:50.678
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: b
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 5
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:50.679
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: -
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: b
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: -
+
+# Created at 2025-02-05T12:24:50.688
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: @
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: {
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: #
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.692
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.698
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:50.698
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:50.698
+Unexpected IOException with stream: }
+
+# Created at 2025-02-05T12:24:50.698
+Unexpected IOException with stream: )
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: O
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: y
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:50.699
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.708
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.708
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.708
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.709
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: w
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: P
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.713
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.718
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.718
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.719
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.719
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: :
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.720
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:50.724
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:50.728
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:50.728
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.728
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.728
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:50.728
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:50.729
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.729
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.729
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.729
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:50.729
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.729
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.737
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: y
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: -
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.740
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.747
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.747
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.747
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.747
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.747
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: k
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: C
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: D
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.748
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.755
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.755
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.755
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:50.755
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.758
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: C
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: D
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: w
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.759
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.768
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:50.768
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.769
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:50.769
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:50.769
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.769
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:50.772
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:50.772
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:50.775
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:50.780
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:50.783
+Unexpected IOException with stream: y
+
+# Created at 2025-02-05T12:24:50.783
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.787
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.788
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:50.789
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.789
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:24:50.790
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:50.791
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:50.792
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:50.793
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:50.793
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:50.809
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.809
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:50.810
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:50.811
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:50.811
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:50.812
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:24:50.812
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:24:52.094
+Unexpected IOException with stream: Feb 05, 2025 12:24:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2025-02-05T12:24:54.121
+Unexpected IOException with stream: Class org.demoproj.OmayoCentre@6a2bcfcb execution started
+
+
+# Created at 2025-02-05T12:24:54.126
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.127
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test1(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.157
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test1(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//textarea[@id='ta1']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//textarea[@id='ta1']},OmayoCentre.Test1:45->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: ta...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//textarea[@id='ta1']}\000A\0009at org.demoproj.OmayoCentre.Test1(OmayoCentre.java:45)\000A
+
+
+# Created at 2025-02-05T12:24:54.158
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.159
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.160
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test2(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.193
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test2(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//iframe[@id='iframe1']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//iframe[@id='iframe1']},OmayoCentre.Test2:54->BaseClass.switchToFrame:194 \00BB NoSuchWindow no such windo...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//iframe[@id='iframe1']}\000A\0009at org.demoproj.OmayoCentre.Test2(OmayoCentre.java:54)\000A
+
+
+# Created at 2025-02-05T12:24:54.194
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.196
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.197
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test3(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.215
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test3(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//iframe[@id='iframe2']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//iframe[@id='iframe2']},OmayoCentre.Test3:62->BaseClass.switchToFrame:194 \00BB NoSuchWindow no such windo...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//iframe[@id='iframe2']}\000A\0009at org.demoproj.OmayoCentre.Test3(OmayoCentre.java:62)\000A
+
+
+# Created at 2025-02-05T12:24:54.215
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.229
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.229
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.246
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},OmayoCentre.Test4:71->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: ta...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']}\000A\0009at org.demoproj.OmayoCentre.Test4(OmayoCentre.java:71)\000A
+
+
+# Created at 2025-02-05T12:24:54.248
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.249
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.251
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.276
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},OmayoCentre.Test4:71->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: ta...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']}\000A\0009at org.demoproj.OmayoCentre.Test4(OmayoCentre.java:71)\000A
+
+
+# Created at 2025-02-05T12:24:54.278
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.279
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.280
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.292
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},OmayoCentre.Test4:71->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: ta...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']}\000A\0009at org.demoproj.OmayoCentre.Test4(OmayoCentre.java:71)\000A
+
+
+# Created at 2025-02-05T12:24:54.295
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.296
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.296
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.321
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},OmayoCentre.Test4:71->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: ta...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']}\000A\0009at org.demoproj.OmayoCentre.Test4(OmayoCentre.java:71)\000A
+
+
+# Created at 2025-02-05T12:24:54.321
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.321
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.321
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.339
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},OmayoCentre.Test5:81->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: ta...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']}\000A\0009at org.demoproj.OmayoCentre.Test5(OmayoCentre.java:81)\000A
+
+
+# Created at 2025-02-05T12:24:54.339
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.343
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.343
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.351
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},OmayoCentre.Test5:81->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: ta...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']}\000A\0009at org.demoproj.OmayoCentre.Test5(OmayoCentre.java:81)\000A
+
+
+# Created at 2025-02-05T12:24:54.351
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.357
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.357
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.370
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},OmayoCentre.Test5:81->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: ta...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']}\000A\0009at org.demoproj.OmayoCentre.Test5(OmayoCentre.java:81)\000A
+
+
+# Created at 2025-02-05T12:24:54.370
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.370
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.375
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.383
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},OmayoCentre.Test5:81->BaseClass.sendKeys:111 \00BB NoSuchWindow no such window: ta...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']}\000A\0009at org.demoproj.OmayoCentre.Test5(OmayoCentre.java:81)\000A
+
+
+# Created at 2025-02-05T12:24:54.389
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.389
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.389
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test6(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.399
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test6(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//table[@id='table1']},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//table[@id='table1']},OmayoCentre.Test6:91 \00BB NoSuchWindow no such window: target window already clos...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//table[@id='table1']}\000A\0009at org.demoproj.OmayoCentre.Test6(OmayoCentre.java:91)\000A
+
+
+# Created at 2025-02-05T12:24:54.399
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.399
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.399
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test7(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:24:54.399
+Unexpected IOException with stream: PageLink Validation
+
+
+# Created at 2025-02-05T12:24:54.417
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test7(org.demoproj.OmayoCentre),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//link},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//link},OmayoCentre.Test7:106 \00BB NoSuchWindow no such window: target window already clo...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:52060}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: f85fb3413b2d0b4d4778d3844a435c3d\000A*** Element info: {Using=xpath\002C value=//link}\000A\0009at org.demoproj.OmayoCentre.Test7(OmayoCentre.java:106)\000A
+
+
+# Created at 2025-02-05T12:24:54.419
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-24-54
+
+
+# Created at 2025-02-05T12:24:54.421
+Unexpected IOException with stream: Class org.demoproj.OmayoCentre@6a2bcfcb execution ended
+
+
+# Created at 2025-02-05T12:24:55.358
+Unexpected IOException with stream: S
+
+# Created at 2025-02-05T12:24:55.358
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.363
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.363
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.363
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.364
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.364
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.364
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:55.364
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.364
+Unexpected IOException with stream: C
+
+# Created at 2025-02-05T12:24:55.364
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:55.364
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.367
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.367
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:55.367
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.368
+Unexpected IOException with stream: D
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 5
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: (
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 5
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:24:55.369
+Unexpected IOException with stream: b
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: 5
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:55.378
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: -
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: b
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: -
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: @
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: {
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: #
+
+# Created at 2025-02-05T12:24:55.380
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:55.387
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:24:55.387
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:55.387
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:55.387
+Unexpected IOException with stream: }
+
+# Created at 2025-02-05T12:24:55.387
+Unexpected IOException with stream: )
+
+# Created at 2025-02-05T12:24:55.387
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.388
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.388
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.388
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: O
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: y
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.389
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.396
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.396
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.396
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.396
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:55.398
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:55.398
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.398
+Unexpected IOException with stream: w
+
+# Created at 2025-02-05T12:24:55.398
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.398
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: P
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: :
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:55.399
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:24:55.408
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.408
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.408
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.408
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:55.408
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.408
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.408
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: y
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: -
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:55.409
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: k
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:24:55.412
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream: C
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.416
+Unexpected IOException with stream: D
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: C
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.418
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: D
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: w
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.423
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:24:55.428
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.428
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.428
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:55.429
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: y
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:24:55.430
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:24:55.438
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:24:55.438
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:24:55.438
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:24:55.439
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:24:56.758
+Unexpected IOException with stream: Feb 05, 2025 12:24:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+

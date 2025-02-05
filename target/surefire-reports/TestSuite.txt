@@ -1,4 +1,16 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 28, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 130.974 s - in TestSuite
+Tests run: 90, Failures: 3, Errors: 0, Skipped: 87, Time elapsed: 8.085 s <<< FAILURE! - in TestSuite
+beforClass(org.demoproj.OmayoRight)  Time elapsed: 3.7 s  <<< FAILURE!
+java.io.FileNotFoundException: C:\Users\sasik\eclipse-workspace\TestNg16_10_projct\src	est\resources\Excelfile\Book1.xlsx (The filename, directory name, or volume label syntax is incorrect)
+	at org.demoproj.OmayoRight.beforClass(OmayoRight.java:17)
+
+beforeClass(org.demoproj.OmayoCentre)  Time elapsed: 5.646 s  <<< FAILURE!
+java.io.FileNotFoundException: C:\Users\sasik\eclipse-workspace\TestNg16_10_projct\src	est\resources\Excelfile\Book1.xlsx (The filename, directory name, or volume label syntax is incorrect)
+	at org.demoproj.OmayoCentre.beforeClass(OmayoCentre.java:17)
+
+beforeClass(org.demoproj.OmayoLeft)  Time elapsed: 7.662 s  <<< FAILURE!
+java.io.FileNotFoundException: C:\Users\sasik\eclipse-workspace\TestNg16_10_projct\src	est\resources\Excelfile\Book1.xlsx (The filename, directory name, or volume label syntax is incorrect)
+	at org.demoproj.OmayoLeft.beforeClass(OmayoLeft.java:20)
+
