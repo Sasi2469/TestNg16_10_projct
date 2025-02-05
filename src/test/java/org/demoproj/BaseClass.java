@@ -21,11 +21,6 @@ import java.util.Properties;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
-import javax.xml.bind.Marshaller;
-import javax.xml.bind.Unmarshaller;
-import javax.xml.bind.Validator;
 
 import org.apache.commons.lang3.exception.UncheckedReflectiveOperationException;
 import org.apache.poi.ss.usermodel.Cell;
@@ -275,8 +270,8 @@ Date t  = new Date();
 	
 	public static String excelReader(String filename, int sheetNo , int rowNo , int cellNo) throws IOException {
 		
-		File f = new File("C:\\Users\\sasik\\eclipse-workspace\\TestNg16_10_projct\\Excelfile\\"+filename+".xlsx");
-		
+	//	File f = new File("C:\\Users\\sasik\\eclipse-workspace\\TestNg16_10_projct\\Excelfile\\"+filename+".xlsx");
+		File f = new File(System.getProperty("user.dir")+"\\src\\test\\resources\\Excelfile\\"+filename+".xlsx");
 		FileInputStream fi = new FileInputStream(f);
 		
 	 Workbook w = new XSSFWorkbook(fi);

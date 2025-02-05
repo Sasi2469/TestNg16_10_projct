@@ -1,0 +1,1322 @@
+# Created at 2025-02-05T12:42:24.283
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2025-02-05T12:42:25.094
+Unexpected IOException with stream: Feb 05, 2025 12:42:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2025-02-05T12:42:30.898
+Unexpected IOException with stream: Class org.demoproj.OmayoCentre@1efbd816 execution started
+
+
+# Created at 2025-02-05T12:42:30.905
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-30
+
+
+# Created at 2025-02-05T12:42:30.907
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test1(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:31.777
+Unexpected IOException: 6,1,org.demoproj.OmayoCentre,Test1(org.demoproj.OmayoCentre),null,null,null
+
+
+# Created at 2025-02-05T12:42:31.780
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-31
+
+
+# Created at 2025-02-05T12:42:31.780
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-31
+
+
+# Created at 2025-02-05T12:42:31.782
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test2(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:31.948
+Unexpected IOException with stream: text from frame1: What is Selenium?
+
+
+# Created at 2025-02-05T12:42:31.963
+Unexpected IOException: 6,1,org.demoproj.OmayoCentre,Test2(org.demoproj.OmayoCentre),null,null,null
+
+
+# Created at 2025-02-05T12:42:31.965
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-31
+
+
+# Created at 2025-02-05T12:42:31.970
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-31
+
+
+# Created at 2025-02-05T12:42:31.970
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test3(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:32.228
+Unexpected IOException with stream: text from frame2: Whats Next?
+
+
+# Created at 2025-02-05T12:42:32.243
+Unexpected IOException: 6,1,org.demoproj.OmayoCentre,Test3(org.demoproj.OmayoCentre),null,null,null
+
+
+# Created at 2025-02-05T12:42:32.245
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-32
+
+
+# Created at 2025-02-05T12:42:32.272
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-32
+
+
+# Created at 2025-02-05T12:42:32.272
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.480
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),null,invalid session id: session deleted as the browser has closed the connection\000Afrom disconnected: unable to send message to renderer\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},null,invalid session id: session deleted as the browser has closed the connection\000Afrom disconnected: unable to send message to renderer\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},OmayoCentre.Test4:74 \00BB NoSuchSession invalid session id: session deleted as th...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id: session deleted as the browser has closed the connection\000Afrom disconnected: unable to send message to renderer\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']}\000A\0009at org.demoproj.OmayoCentre.Test4(OmayoCentre.java:74)\000A
+
+
+# Created at 2025-02-05T12:42:33.480
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.480
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.486
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.584
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},OmayoCentre.Test4:71->BaseClass.sendKeys:111 \00BB NoSuchSession invalid session i...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']}\000A\0009at org.demoproj.OmayoCentre.Test4(OmayoCentre.java:71)\000A
+
+
+# Created at 2025-02-05T12:42:33.584
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.589
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.589
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.599
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},OmayoCentre.Test4:71->BaseClass.sendKeys:111 \00BB NoSuchSession invalid session i...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']}\000A\0009at org.demoproj.OmayoCentre.Test4(OmayoCentre.java:71)\000A
+
+
+# Created at 2025-02-05T12:42:33.603
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.603
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.603
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.613
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test4(org.demoproj.OmayoCentre),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']},OmayoCentre.Test4:71->BaseClass.sendKeys:111 \00BB NoSuchSession invalid session i...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='form1']//input[@type='text']}\000A\0009at org.demoproj.OmayoCentre.Test4(OmayoCentre.java:71)\000A
+
+
+# Created at 2025-02-05T12:42:33.613
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.618
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.618
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.629
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},OmayoCentre.Test5:81->BaseClass.sendKeys:111 \00BB NoSuchSession invalid session i...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']}\000A\0009at org.demoproj.OmayoCentre.Test5(OmayoCentre.java:81)\000A
+
+
+# Created at 2025-02-05T12:42:33.629
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.629
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.637
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.647
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},OmayoCentre.Test5:81->BaseClass.sendKeys:111 \00BB NoSuchSession invalid session i...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']}\000A\0009at org.demoproj.OmayoCentre.Test5(OmayoCentre.java:81)\000A
+
+
+# Created at 2025-02-05T12:42:33.648
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.650
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.650
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.660
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},OmayoCentre.Test5:81->BaseClass.sendKeys:111 \00BB NoSuchSession invalid session i...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']}\000A\0009at org.demoproj.OmayoCentre.Test5(OmayoCentre.java:81)\000A
+
+
+# Created at 2025-02-05T12:42:33.660
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.670
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.670
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.678
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test5(org.demoproj.OmayoCentre),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']},OmayoCentre.Test5:81->BaseClass.sendKeys:111 \00BB NoSuchSession invalid session i...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//form[@name='login']//input[@name='userid']}\000A\0009at org.demoproj.OmayoCentre.Test5(OmayoCentre.java:81)\000A
+
+
+# Created at 2025-02-05T12:42:33.678
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.678
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.678
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test6(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.692
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test6(org.demoproj.OmayoCentre),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//table[@id='table1']},null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//table[@id='table1']},OmayoCentre.Test6:91 \00BB NoSuchSession invalid session id\000ABuild info: version: '...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//table[@id='table1']}\000A\0009at org.demoproj.OmayoCentre.Test6(OmayoCentre.java:91)\000A
+
+
+# Created at 2025-02-05T12:42:33.692
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.692
+Unexpected IOException with stream: TestCase staring time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.692
+Unexpected IOException: 5,1,org.demoproj.OmayoCentre,Test7(org.demoproj.OmayoCentre),centreomayo,null,null
+
+
+# Created at 2025-02-05T12:42:33.692
+Unexpected IOException with stream: PageLink Validation
+
+
+# Created at 2025-02-05T12:42:33.709
+Unexpected IOException: 8,1,org.demoproj.OmayoCentre,Test7(org.demoproj.OmayoCentre),null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//link},null,invalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//link},OmayoCentre.Test7:106 \00BB NoSuchSession invalid session id\000ABuild info: version: ...,org.openqa.selenium.NoSuchSessionException: \000Ainvalid session id\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53138}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 616d5305927cfdf45cde3b5646e526ee\000A*** Element info: {Using=xpath\002C value=//link}\000A\0009at org.demoproj.OmayoCentre.Test7(OmayoCentre.java:106)\000A
+
+
+# Created at 2025-02-05T12:42:33.709
+Unexpected IOException with stream: TestCase ending time: Feb-36-12-42-33
+
+
+# Created at 2025-02-05T12:42:33.713
+Unexpected IOException with stream: Class org.demoproj.OmayoCentre@1efbd816 execution ended
+
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: S
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: C
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:42:34.359
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.368
+Unexpected IOException with stream: D
+
+# Created at 2025-02-05T12:42:34.368
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.369
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.369
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:42:34.369
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.369
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.370
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.370
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:42:34.370
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:42:34.370
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:42:34.370
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:42:34.370
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 5
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: (
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:42:34.373
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:42:34.377
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:42:34.377
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:42:34.377
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.377
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 5
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: b
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 5
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 2
+
+# Created at 2025-02-05T12:42:34.379
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:42:34.386
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:42:34.387
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:42:34.388
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: -
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: b
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: -
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:42:34.389
+Unexpected IOException with stream: 3
+
+# Created at 2025-02-05T12:42:34.398
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:42:34.398
+Unexpected IOException with stream: @
+
+# Created at 2025-02-05T12:42:34.398
+Unexpected IOException with stream: {
+
+# Created at 2025-02-05T12:42:34.398
+Unexpected IOException with stream: #
+
+# Created at 2025-02-05T12:42:34.398
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:42:34.399
+Unexpected IOException with stream: 4
+
+# Created at 2025-02-05T12:42:34.399
+Unexpected IOException with stream: 0
+
+# Created at 2025-02-05T12:42:34.399
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:42:34.399
+Unexpected IOException with stream: }
+
+# Created at 2025-02-05T12:42:34.399
+Unexpected IOException with stream: )
+
+# Created at 2025-02-05T12:42:34.399
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.399
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.399
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.399
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.401
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:42:34.401
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.401
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.401
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.401
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.401
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:42:34.401
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:42:34.401
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:42:34.401
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: O
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: y
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.404
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: w
+
+# Created at 2025-02-05T12:42:34.408
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: P
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:42:34.413
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.418
+Unexpected IOException with stream: :
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: /
+
+# Created at 2025-02-05T12:42:34.419
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.427
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.427
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: y
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: -
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.429
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.434
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.434
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.434
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:42:34.434
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:42:34.434
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:42:34.437
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.437
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.437
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.437
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.438
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.438
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: k
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: g
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: C
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: D
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.439
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:42:34.447
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.447
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.447
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.448
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.448
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.448
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:42:34.448
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.448
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:42:34.450
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:42:34.450
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: C
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: h
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: m
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: D
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: i
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: v
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: w
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: a
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.451
+Unexpected IOException with stream: d
+
+# Created at 2025-02-05T12:42:34.458
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.458
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.458
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:42:34.458
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: c
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: e
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: s
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: f
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: u
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: l
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: y
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: n
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: p
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: o
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: r
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: t
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream:  
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: 1
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: 8
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: 7
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: 9
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: 6
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: .
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: 
+
+# Created at 2025-02-05T12:42:34.459
+Unexpected IOException with stream: 
+
+
+# Created at 2025-02-05T12:42:35.814
+Unexpected IOException with stream: Feb 05, 2025 12:42:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2025-02-05T12:42:36.503
+Unexpected IOException: 8,1,org.demoproj.OmayoLeft,beforeClass(org.demoproj.OmayoLeft),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53188}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c6f1b144184218248fef944e7f44c0e0,null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53188}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c6f1b144184218248fef944e7f44c0e0,OmayoLeft.beforeClass:21->BaseClass.maximize:88 \00BB NoSuchWindow no such window:...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53188}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c6f1b144184218248fef944e7f44c0e0\000A\0009at org.demoproj.OmayoLeft.beforeClass(OmayoLeft.java:21)\000A
+
+
+# Created at 2025-02-05T12:42:36.508
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,beforeMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.510
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,Test1(org.demoproj.OmayoLeft),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53188}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c6f1b144184218248fef944e7f44c0e0,null
+
+
+# Created at 2025-02-05T12:42:36.510
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,afterMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.512
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,beforeMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.512
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,Test2(org.demoproj.OmayoLeft),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53188}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c6f1b144184218248fef944e7f44c0e0,null
+
+
+# Created at 2025-02-05T12:42:36.512
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,afterMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.513
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,beforeMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.513
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,Test3(org.demoproj.OmayoLeft),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53188}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c6f1b144184218248fef944e7f44c0e0,null
+
+
+# Created at 2025-02-05T12:42:36.513
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,afterMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.517
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,beforeMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.518
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,Test4(org.demoproj.OmayoLeft),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53188}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c6f1b144184218248fef944e7f44c0e0,null
+
+
+# Created at 2025-02-05T12:42:36.518
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,afterMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.518
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,beforeMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.522
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,Test5(org.demoproj.OmayoLeft),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=132.0.6834.160)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'SASI'\002C ip: '192.168.1.35'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_202'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 132.0.6834.160\002C chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445...\002C userDataDir: C:\005CUsers\005Csasik\005CAppData\005CLoca...}\002C fedcm:accounts: true\002C goog:chromeOptions: {debuggerAddress: localhost:53188}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:extension:minPinLength: true\002C webauthn:extension:prf: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: c6f1b144184218248fef944e7f44c0e0,null
+
+
+# Created at 2025-02-05T12:42:36.522
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,afterMethod(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.527
+Unexpected IOException: 9,1,org.demoproj.OmayoLeft,afterClass(org.demoproj.OmayoLeft),null,null,null
+
+
+# Created at 2025-02-05T12:42:36.933
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
