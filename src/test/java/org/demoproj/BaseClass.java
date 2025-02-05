@@ -53,18 +53,18 @@ public class BaseClass {
     	 
     //DriverManager.getInstance().browserLanuch(browser);
     	 	
-    	
-    			
+    	ChromeOptions co = new ChromeOptions();
+    			co.addArguments("Headless");
     			switch(browser) {
     			
     			case"chrome":
     				WebDriverManager.chromedriver().setup();
-    			driver= new ChromeDriver();
+    			driver= new ChromeDriver(co);
     			break;
     			
     			case"firefox":
     					WebDriverManager.firefoxdriver().setup();
-    				driver= new FirefoxDriver();
+    				driver= new FirefoxDriver(co);
     					break;
     					
     					default:
