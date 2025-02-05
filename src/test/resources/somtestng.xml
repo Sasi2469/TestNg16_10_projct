@@ -4,9 +4,10 @@
  <parameter name="car1" value="Swift"></parameter>
   <parameter name="car2" value="Hyundai"></parameter>
   <test thread-count="5" name="Test">
- 
     <classes>
       <class name="org.demoproj.OmayoRight"/>
-   </classes>
+      <class name="org.demoproj.OmayoCentre"/>
+      <class name="org.demoproj.OmayoLeft"/>
+    </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
