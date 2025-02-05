@@ -26,7 +26,7 @@ public class OmayoLeft extends BaseClass {
 	@AfterClass
 	public void afterClass() {
 		classExecutionEnded(this.toString());
-		//quit();
+		quit();
 
 	}
 
@@ -63,7 +63,8 @@ public class OmayoLeft extends BaseClass {
 	public void Test3() throws AWTException, InterruptedException {
 		OmayoPOMClass o = new OmayoPOMClass();
 	 chooseFile(o.getFileUpload(),"C:\\Users\\sasik\\eclipse-workspace\\TestNg16_10_projct\\target\\UploadFile\\packages.txt");
-}
+          
+	}
 	
 	@Test( groups="leftomayo")
 	public void Test4() throws InterruptedException {

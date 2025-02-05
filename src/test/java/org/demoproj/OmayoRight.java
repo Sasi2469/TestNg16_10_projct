@@ -23,7 +23,7 @@ public class OmayoRight extends BaseClass{
 	@AfterClass
 	public void afterClass() {
 		classExecutionEnded(this.toString());
-        // quit();
+         quit();
 	}
 	
 	@BeforeMethod
